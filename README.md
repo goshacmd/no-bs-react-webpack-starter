@@ -8,6 +8,9 @@ A simple experience that's to that of [`brunch-with-react`](http://github.com/br
 If you are only getting into React and know nothing about Webpack, and the word itself is enough to scare you, consider starting with **No bullshit**.
 *(Or Brunch — [both are good starter options](http://goshakkk.name/you-dont-need-learn-webpack-first-with-react/), really.)*
 
+If you're the *[almost]* clean slate guy, **No bullshit** is for you too.
+It provides the minimal foundation that you can build atop.
+
 ## Usage
 
 1. `git clone https://github.com/goshakkk/no-bs-react-webpack-starter.git my-awesome-app`
